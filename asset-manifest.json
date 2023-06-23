@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a60be6d3.css",
+    "main.js": "/portfolio/static/js/main.09f3b863.js",
+    "static/media/heavybagpro.png": "/portfolio/static/media/heavybagpro.1311d42644eda33e22c9.png",
+    "static/media/ezdefi.png": "/portfolio/static/media/ezdefi.4992893e621118469411.png",
+    "static/media/site-bg.jpg": "/portfolio/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/lz.png": "/portfolio/static/media/lz.1ffa45a2e5abbff2f0c8.png",
+    "static/media/services.png": "/portfolio/static/media/services.4c95ba2c47fcd36648ca.png",
+    "static/media/header-img.svg": "/portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "index.html": "/portfolio/index.html",
+    "main.a60be6d3.css.map": "/portfolio/static/css/main.a60be6d3.css.map",
+    "main.09f3b863.js.map": "/portfolio/static/js/main.09f3b863.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a60be6d3.css",
+    "static/js/main.09f3b863.js"
+  ]
+}
