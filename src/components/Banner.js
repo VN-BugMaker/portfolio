@@ -70,7 +70,7 @@ const Banner = () => {
                             <a href='https://facebook.com/khoipn.dev' target="_blank">
                                 <FaFacebook />
                             </a>
-                            <a href='https://github.com/khoipn-dev' target="_blank">
+                            <a href='https://github.com/VN-BugMaker' target="_blank">
                                 <FaGithub />
                             </a>
                             <a href='https://sharelinhtinh.com' target="_blank">
